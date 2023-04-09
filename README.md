@@ -1,1 +1,1 @@
-# Predicting the person income by using machine learning libararies
+# Predicting the person income using machine learning libararies
